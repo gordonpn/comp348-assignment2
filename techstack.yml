@@ -1,7 +1,8 @@
 repo_name: gordonpn/comp348-assignment2
 report_id: 0ed5217e93769fe6fa31c10ae8045714
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T13:30:27+00:00'
+timestamp: '2024-01-04T14:54:02+00:00'
 requested_by: gordonpn
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gordonpn/comp348-assignment2
   detection_source: Repo Metadata
 - name: prolog
   description: é uma linguagem de programação que se enquadra no paradigma de Programação
@@ -23,4 +25,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10124/no-img-open-source.png
+  detection_source_url: https://github.com/gordonpn/comp348-assignment2
   detection_source: Repo Metadata
